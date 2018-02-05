@@ -60,3 +60,20 @@ h1, h2, h5{
 }
 
 /*Card*/
+
+/*portfolio*/
+
+.portfolio {
+	margin: 25px 0;
+}
+.portfolio:hover {
+	opacity: .85;
+	-webkit-transform:scale(1.05,1.15);
+	-webkit-transition-duration: 550ms;
+	-moz-transform:scale(1.05,1.15);
+	-moz-transition-duration: 550ms;
+	transform:scale(1.05,1.15);
+	transition-duration: 550ms;
+}
+
+/*portfolio*/
