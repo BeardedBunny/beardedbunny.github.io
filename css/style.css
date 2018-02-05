@@ -1,0 +1,62 @@
+/*General*/
+h1, h2, h5{
+	font-family: 'Indie Flower', cursive;
+}
+
+
+/*General*/
+
+
+/*Nav*/
+.nav-item {
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.5em;
+}
+.active {
+	color: #17A2B8!important;
+}
+.nav-item:hover {
+	color: #17A2B8!important;
+}
+.nav-second {
+	padding-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+.nav-second a {
+	font-size: 0.85em;
+	margin-right: 1em;
+	color: rgba(0,0,0,.5);
+}
+.nav-second a:hover {
+	text-decoration: none;
+	color: #17A2B8!important;
+}
+/*Nav*/
+/*jumbotron*/
+.jumbotron {
+	background-color: #17A2B8;
+	opacity: 0.8;
+}
+.jumbotron h2 {
+	color: white;
+}
+.jumbotron p {
+	color: white;
+}
+/*jumbotron*/
+/*Card*/
+.card-group h5 {
+	font-size: 1.5em;
+}
+.card {
+	margin-right: 15px!important; 
+	margin-left: 15px;
+}
+.card-text {
+	text-align: justify;
+}
+.card-group {
+	margin-bottom: 55px;
+}
+
+/*Card*/
