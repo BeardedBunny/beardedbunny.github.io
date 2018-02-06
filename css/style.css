@@ -1,5 +1,5 @@
 /*General*/
-h1, h2, h5{
+h1, h2, h4, h5{
 	font-family: 'Indie Flower', cursive;
 }
 
@@ -75,5 +75,22 @@ h1, h2, h5{
 	transform:scale(1.05,1.15);
 	transition-duration: 550ms;
 }
-
 /*portfolio*/
+/*Modal*/
+
+.modal-body {
+	float: none;
+	margin: 5px auto;
+}
+.box {
+	margin-top: 20px;
+}
+.text-main {
+	text-align: justify;
+}
+
+span.badge.badge-info {
+	padding:5px 10px;
+}
+
+/*Modal*/
