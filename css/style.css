@@ -64,7 +64,7 @@ h1, h2, h4, h5{
 /*portfolio*/
 
 .portfolio {
-	margin: 25px 0;
+	margin: 50px 0;
 }
 .portfolio:hover {
 	opacity: .85;
@@ -74,6 +74,10 @@ h1, h2, h4, h5{
 	-moz-transition-duration: 550ms;
 	transform:scale(1.05,1.15);
 	transition-duration: 550ms;
+}
+.img-fluid{
+	width: 367.5px;
+	height: 226.4px;
 }
 /*portfolio*/
 /*Modal*/
