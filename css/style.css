@@ -1,5 +1,5 @@
 /*General*/
-h1, h2, h4, h5{
+h1, h2, h3, h4, h5{
 	font-family: 'Indie Flower', cursive;
 }
 
@@ -98,3 +98,20 @@ span.badge.badge-info {
 }
 
 /*Modal*/
+
+/* A propos */
+
+#texteapropos {
+	text-align:justify;	
+}
+#boutonapropos{
+	margin: 4em 0;
+}
+
+#boutonapropos h3{
+	margin-bottom: 1em;	
+}
+
+/* A propos */
+
+
