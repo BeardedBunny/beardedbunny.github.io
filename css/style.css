@@ -1,0 +1,117 @@
+/*General*/
+h1, h2, h3, h4, h5{
+	font-family: 'Indie Flower', cursive;
+}
+
+
+/*General*/
+
+
+/*Nav*/
+.nav-item {
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.5em;
+}
+.active {
+	color: #17A2B8!important;
+}
+.nav-item:hover {
+	color: #17A2B8!important;
+}
+.nav-second {
+	padding-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+.nav-second a {
+	font-size: 0.85em;
+	margin-right: 1em;
+	color: rgba(0,0,0,.5);
+}
+.nav-second a:hover {
+	text-decoration: none;
+	color: #17A2B8!important;
+}
+/*Nav*/
+/*jumbotron*/
+.jumbotron {
+	background-color: #17A2B8;
+	opacity: 0.8;
+}
+.jumbotron h2 {
+	color: white;
+}
+.jumbotron p {
+	color: white;
+}
+/*jumbotron*/
+/*Card*/
+.card-group h5 {
+	font-size: 1.5em;
+}
+.card {
+	margin-right: 15px!important; 
+	margin-left: 15px;
+}
+.card-text {
+	text-align: justify;
+}
+.card-group {
+	margin-bottom: 55px;
+}
+
+/*Card*/
+
+/*portfolio*/
+
+.portfolio {
+	margin: 50px 0;
+}
+.portfolio:hover {
+	opacity: .85;
+	-webkit-transform:scale(1.05,1.15);
+	-webkit-transition-duration: 550ms;
+	-moz-transform:scale(1.05,1.15);
+	-moz-transition-duration: 550ms;
+	transform:scale(1.05,1.15);
+	transition-duration: 550ms;
+}
+.img-fluid{
+	width: 367.5px;
+	height: 226.4px;
+}
+/*portfolio*/
+/*Modal*/
+
+.modal-body {
+	float: none;
+	margin: 5px auto;
+}
+.box {
+	margin-top: 20px;
+}
+.text-main {
+	text-align: justify;
+}
+
+span.badge.badge-info {
+	padding:5px 10px;
+}
+
+/*Modal*/
+
+/* A propos */
+
+#texteapropos {
+	text-align:justify;	
+}
+#boutonapropos{
+	margin: 4em 0;
+}
+
+#boutonapropos h3{
+	margin-bottom: 1em;	
+}
+
+/* A propos */
+
+
